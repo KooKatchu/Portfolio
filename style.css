@@ -5,8 +5,12 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+:root {
+  --bg-color: conic-gradient(#a7aef9, #ddccf8, #f5c9d9, #cebbfa, #a7aef9);
+}
+
 body {
-  background-color: conic-gradient(#f9cca7, #ccf8f6, #f5d3c9, #cebbfa, #f9cca7);
+  background-color: var(--bg-color);
 }
 
 h1 {
