@@ -6,11 +6,12 @@
 }
 
 :root {
-  --bg-color: linear-gradient(#11adb3, #070111, #d6660a);
+  /* --bg-color: linear-gradient(#11adb3, #070111, #d6660a); */
 }
 
 body {
-  background: var(--bg-color);
+  /* background: rgb(214,102,10); */
+  background: radial-gradient(circle, rgba(214,102,10,1) 40%, rgba(17,173,179,1) 100%, rgba(7,1,17,1) 100%); 
   min-height: 100vh;
   display: flex;
   align-items: center;
