@@ -6,7 +6,7 @@
 }
 
 :root {
-  --bg-color: conic-gradient(#a7aef9, #ddccf8, #f5c9d9, #cebbfa, #a7aef9);
+  --bg-color: linear-gradient(#11adb3, #070111, #d6660a);
 }
 
 body {
