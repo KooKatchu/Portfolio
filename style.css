@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: var(--bg-color);
+  background: var(--bg-color);
 }
 
 h1 {
